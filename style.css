@@ -1,0 +1,40 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+table tr,th,td{
+    border: 1px solid black;
+
+}
+#timing{
+    padding:10px;
+    text-align: center;
+    background-color: rgb(220, 220, 220);
+   
+}
+#days{
+    padding:10px;
+    text-align: center;
+    
+    
+}
+#daysh{
+    padding:10px;
+    text-align: center;
+    background-color: yellow;
+    
+    
+}
+#home{
+    padding: 50px;
+    background-color:#ffc0d0;
+
+}
+#title{
+    background-color: yellow;
+    padding: 10px;
+}
+#timingh{
+    background-color: yellow;
+}
